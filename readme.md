@@ -3,7 +3,7 @@
 A swift basic city guide project
 
 Sections in the project
-![alt](https://link)
+![alt](https://raw.githubusercontent.com/aoguz1/landmarkBook/master/github/ezgif.com-gif-maker.gif)
 
 
 
